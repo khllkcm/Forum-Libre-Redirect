@@ -1,2 +1,2 @@
-*/5 0 * * SAT /usr/bin/python3 /home/khll/scripts/FL.py
+*/5 0,1 * * SAT /usr/bin/python3 /home/khll/scripts/FL.py
 */5 7,8 * * MON-FRI /usr/bin/python3 /home/khll/scripts/FL.py
