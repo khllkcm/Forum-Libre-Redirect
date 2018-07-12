@@ -11,7 +11,7 @@ Le script s'exécute toutes les 5 minutes des 2 heures suivants l'heure d'affich
 
 Faire rouler votre propre version est aussi simple que de changer `/srv/kacem.xyz` dans `FL.py` au répertoire racine de votre serveur web et `/home/khll/scripts` dans `crontab` à l'endroit où vous avez placé `FL.py`.
 
-L'étape suivante et finale serait de configurer cron avec le contenu de crontab (assurez-vous de prendre en compte le fuseau horaire de votre serveur).
+L'étape suivante et finale serait de configurer *cron* avec le contenu de `crontab` (assurez-vous de prendre en compte le fuseau horaire de votre serveur).
 
 ---
 
